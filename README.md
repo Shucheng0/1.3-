@@ -10,3 +10,5 @@
 
 ​	2.1 [数组](https://github.com/sctang0/Data_Structure/blob/master/CHAPTER2.1.md)
 
+​	2.2[链表（上）](https://github.com/sctang0/Data_Structure/blob/master/CHAPTER2.2.md)
+
