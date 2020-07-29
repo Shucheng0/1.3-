@@ -94,14 +94,11 @@ class LinkedList {
 #### 三种最常见的链表结构：
 
 * 循环链表
-  * 循环链表的尾节点指针指向链表的头节点
+  * 循环链表的尾节点指针指向链表的头节点。
     * <img src="https://static001.geekbang.org/resource/image/86/55/86cb7dc331ea958b0a108b911f38d155.jpg" alt="循环链表内存示意图" style="zoom:33%;" />
-  * 优点：从链尾到链头比较方便
 * 双向链表
-  * 每一个节点支持两个方向：前驱指针prev指向前面的节点，后继指针指向next指针。
+  * 每一个节点支持两个方向：前驱指针prev指向前面的节点，后继指针指向next指针。在消耗更多内存的同时，可以访问前一个节点，更加高效（用空间换时间）。实际开发中，使用的也更加广泛。
     * <img src="https://static001.geekbang.org/resource/image/cb/0b/cbc8ab20276e2f9312030c313a9ef70b.jpg" alt="双向链表内存示意图" style="zoom:33%;" />
-  * 缺点：占用更多空间
-  * 优点：可以访问前一个节点。相较于单链表，除去耗内存之外，更加的高效。实际的开发中，使用的更加的广泛。（用空间换时间）
 * 双向循环链表
   * <img src="https://static001.geekbang.org/resource/image/d1/91/d1665043b283ecdf79b157cfc9e5ed91.jpg" alt="双向循环链表内存分布图" style="zoom:33%;" />
 
