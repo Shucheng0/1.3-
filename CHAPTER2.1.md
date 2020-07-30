@@ -351,6 +351,8 @@ show(point);
 
 
 
-相关文章：[链接](https://time.geekbang.org/column/article/40961)
+相关信息来源：
 
-相关程序：[链接](https://github.com/wangzheng0822/algo/blob/master/javascript/05_array/Array.md)
+* 笔记原文：[极客时间《数据结构与算法之美》](https://time.geekbang.org/column/article/40961)
+
+* 程序：[Github](https://github.com/wangzheng0822/algo/blob/master/javascript/05_array/Array.md)

@@ -62,3 +62,9 @@ var add = function(n) {
     return b;
 }
 ```
+
+
+
+相关信息来源：
+
+* 笔记原文：[极客时间《数据结构与算法之美》](https://time.geekbang.org/column/article/40036)
